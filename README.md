@@ -7,6 +7,11 @@
 5. git remote add origin https://github.com/anupambd94/react-quiz.git
 6. git push
 
+fatal: The current branch lesson-3 has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin lesson-3
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
