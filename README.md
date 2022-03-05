@@ -1,3 +1,12 @@
+# Steps for Creating this branch
+
+1. git init
+2. git checkout -b lesson-3
+3. git add .
+4. git commit -m "message"
+5. git remote add origin https://github.com/anupambd94/react-quiz.git
+6. git push
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
